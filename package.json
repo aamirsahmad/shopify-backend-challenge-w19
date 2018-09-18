@@ -1,0 +1,21 @@
+{
+  "name": "shopify-winter-19-backend-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aamir Ahmad <aamirahmad@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-hapi": "^2.0.7",
+    "graphql": "^14.0.2",
+    "hapi": "^17.5.4",
+    "hapi-swagger": "^9.1.1",
+    "inert": "^5.1.0",
+    "mongoose": "^5.2.15",
+    "nodemon": "^1.18.4",
+    "vision": "^5.4.0"
+  }
+}
